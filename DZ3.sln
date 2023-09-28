@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tymakov4", "Tymakov4\Tymakov4.csproj", "{2A6D2974-BB38-4901-BDD5-C57E9F80F077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zadachi", "zadachi\zadachi.csproj", "{11F86965-E419-4B29-8053-D362470D73B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6D2974-BB38-4901-BDD5-C57E9F80F077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6D2974-BB38-4901-BDD5-C57E9F80F077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6D2974-BB38-4901-BDD5-C57E9F80F077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6D2974-BB38-4901-BDD5-C57E9F80F077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F86965-E419-4B29-8053-D362470D73B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F86965-E419-4B29-8053-D362470D73B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F86965-E419-4B29-8053-D362470D73B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F86965-E419-4B29-8053-D362470D73B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB3175D-E061-4250-AB60-2AE61D5D0972}
+	EndGlobalSection
+EndGlobal
